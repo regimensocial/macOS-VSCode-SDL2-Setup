@@ -64,11 +64,4 @@
         "algorithm": "cpp"
     },
     "C_Cpp.default.compilerPath": "/usr/bin/clang++",
-    "makefile.launchConfigurations": [
-        {
-            "cwd": "/Users/jamie/Programming/cppProjects/hellosdl",
-            "binaryPath": "/Users/jamie/Programming/cppProjects/hellosdl/a.out",
-            "binaryArgs": []
-        }
-    ]
 }
